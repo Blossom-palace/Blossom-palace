@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blossom-palace
-- 👀 I’m interested in Analysis 
-- 🌱 I’m currently learning Tableau 
+- 👀 I’m a Data Analyst 
+- 🌱 I’m currently expanding my knowledge of Data Analytics 
 - 💞️ I’m looking to collaborate on Data analysis projects 
 - 📫 You can reach me on my Email: michaelmaryanne@gmail.com
 
