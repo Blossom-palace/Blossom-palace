@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Blossom-palace
-- 👀 I’m a Data Analyst 
-- 🌱 I’m currently expanding my knowledge of Data Analytics 
-- 💞️ I’m looking to collaborate on Data analysis projects 
+- 👋 Hi, my name is Maryann Michael 
+- 👀 I’m a Data Analyst, skilled in Excel, PowerBI, Tableau and python 
+- 🌱 I’m currently expanding my knowledge of Data Analytics and AI
+- 💞️ I’m looking to collaborate on Data analysis projects. 
 - 📫 You can reach me on my Email: michaelmaryanne@gmail.com
 
 <!---
